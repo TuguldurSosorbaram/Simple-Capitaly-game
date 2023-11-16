@@ -1,0 +1,10 @@
+assignment\Board\ServiceFieldTest.class
+assignment\Board\BoardTest.class
+assignment\Board\PropertyTest.class
+assignment\Player\CarefulTest.class
+assignment\Player\GreedyTest.class
+assignment\Board\FieldTest.class
+assignment\Game\GameTest.class
+assignment\Player\PlayerTest.class
+assignment\Player\TacticalTest.class
+assignment\Board\LuckyFieldTest.class

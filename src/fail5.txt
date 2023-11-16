@@ -1,0 +1,10 @@
+5
+S 2000
+G 2000
+S 2000
+P Kiraly
+P Hilo
+3
+G Sutu
+C crSutu
+T tactSutu

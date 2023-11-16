@@ -1,0 +1,14 @@
+9
+P Kiraly utca
+S 3000
+P Wesseleny utca
+S 2000
+P Rakoczi ter
+S 2000
+P Blaha Luiza ter
+P Corvin negyed
+L 2000
+3
+G Sutu
+C crSutu
+T tactSutu
